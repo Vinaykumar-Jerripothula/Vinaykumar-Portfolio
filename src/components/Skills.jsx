@@ -2,6 +2,14 @@ import { FadeIn } from './Animations';
 
 const skillCategories = [
   {
+      name : 'Problem Solving',
+      skills : [
+        { name: 'Leetcode' , logo: 'https://tse2.mm.bing.net/th/id/OIP.UT4XW5ERz8UDpjJHyhbmEwAAAA?pid=Api&P=0&h=180'}
+        
+      ],
+
+  },
+  {
     name: 'UI/UX',
     skills: [
       { name: 'HTML5', logo: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' },
